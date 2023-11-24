@@ -1,15 +1,21 @@
-# 🌩 Weather App
- Aplicação para consulta do tempo para os próximos 5 dias.
+# Weather App
 
-### Tecnologias utilizadas
+ Aplicação de simples operação para fazer a consulta do tempo para os próximos 5 dias.
+
+# Tecnologias utilizadas
 
 - HTML
 - CSS
-- JS (Jquery)
+- JQuery - Lib em Javascript
+- Highcharts - Lib em Javascript para criação de gráficos.
 
-### API's
+# API's utilizadas
 
-- https://developer.accuweather.com/apis - Para consulta da previsão do clima.
-- https://docs.mapbox.com/api/ - Para consulta de coordenadas geográficas.
-- http://www.geoplugin.net - Para consulta de coordenadas do IP.
-- https://www.highcharts.com/demo - Para geração do grafíco em JS.
+- [Accuweather] - Consumo de dados sobre o clima e previsão do tempo.
+- [Mapbox] - Consumo de dados sobre coordenadas geográficas.
+- [Geoplugin] - Consumo de dados de coordenadas do IP.
+
+<!-- Links -->
+[Accuweather]: https://developer.accuweather.com/apis
+[Mapbox]: https://docs.mapbox.com/api/
+[Geoplugin]: http://www.geoplugin.net
