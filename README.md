@@ -1,4 +1,4 @@
-# Weather App
+# Climate
 
  Aplicação de simples operação para fazer a consulta do tempo para os próximos 5 dias.
 
@@ -9,7 +9,9 @@
 - JQuery - Lib em Javascript
 - Highcharts - Lib em Javascript para criação de gráficos.
 
-# API's utilizadas
+# API's
+
+Foram utilizadas algumas Api's para fazer a consulta de clima, geolocalização e coordenadas.
 
 - [Accuweather] - Consumo de dados sobre o clima e previsão do tempo.
 - [Mapbox] - Consumo de dados sobre coordenadas geográficas.
